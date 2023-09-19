@@ -10,4 +10,4 @@ COPY index.html /var/www/html
 
 EXPOSE 80
 
-CMD ["/usr/sbin/httpd", "-DFOREGROUND"]
+CMD ["/usr/sbin/httpxxd", "-DFOREGROUND"]
